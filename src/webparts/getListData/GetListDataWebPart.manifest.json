@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "48badd4b-d80a-4f95-a9b1-7b5100559d72",
+  "alias": "GetListDataWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "48badd4b-d80a-4f95-a9b1-7b5100559d72",
+    "group": { "default": "Under Development" },
+    "title": { "default": "GetListData" },
+    "description": { "default": "Some Decription" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "GetListData",
+      "SharepointList":""
+    }
+  }]
+}
